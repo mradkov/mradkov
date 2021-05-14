@@ -1,6 +1,6 @@
 ### Hello 👋
 
-- 🔭 I’m currently working on interesting projects at [hack.bg](https://hack.bg) such as [superhero.com](https://github.com/aeternity/superhero-ui) and various different things in and accross the blockchain space.
+- 🔭 I’m currently working on various different interesting projects in the blockchain space at [hack.bg](https://hack.bg).
 - 📝 I write stuff on [hack.bg](https://hack.bg)
 - 🎙 Hosting the [Blockchain Developers Meetup Bulgaria](https://meetup.com/Blockchain-Developers-Meetup-Bulgaria)
 - 🌱 I’m currently learning ... Erlang, Rust
